@@ -2,7 +2,7 @@
 
 ## Summary of Findings
 
-We analyzed ~346,000 cleaned used-vehicle listings (from an original 426,880-row Kaggle dataset) to identify what drives resale price for a used car dealership fine-tuning its inventory.
+I analyzed ~346,000 cleaned used-vehicle listings (from an original 426,880-row Kaggle dataset) to identify what drives resale price for a used car dealership fine-tuning its inventory.
 
 **Top drivers of price, in order of impact:**
 
