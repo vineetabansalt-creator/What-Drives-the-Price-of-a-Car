@@ -23,8 +23,7 @@ I analyzed ~346,000 cleaned used-vehicle listings (from an original 426,880-row 
 ## Repository Contents
 
 - [`car_prompt_II.ipynb`](./car_prompt_II.ipynb) — full analysis notebook, following the CRISP-DM framework (Business Understanding → Data Understanding → Data Preparation → Modeling → Evaluation → Deployment).
-- `data/vehicles.csv` — the raw dataset (Kaggle used-car listings, ~426K rows).
-- `images/` — supporting images used in the notebook (CRISP-DM diagram, etc.).
+- `vehicles.csv` — the raw dataset (Kaggle used-car listings, ~426K rows).
 
 ## Data
 
